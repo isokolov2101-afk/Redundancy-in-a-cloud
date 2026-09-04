@@ -42,8 +42,8 @@
 
 *2. Скриншот статуса балансировщика и целевой группы.*
 
-[Скриншот статуса балансировщика и целевой группы](https://github.com/isokolov2101-afk/Redundancy-in-a-cloud/blob/main/screenshots/Balacer1%20and%20Group1%20status.png)
+![Скриншот статуса балансировщика и целевой группы](https://github.com/isokolov2101-afk/Redundancy-in-a-cloud/blob/main/screenshots/Balacer1%20and%20Group1%20status.png)
 
 *3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.*
 
-[Скриншот curl запроса на IP-адрес балансировщика](https://github.com/isokolov2101-afk/Redundancy-in-a-cloud/blob/main/screenshots/Nginx%20Welcome%20page.png)
+![Скриншот curl запроса на IP-адрес балансировщика](https://github.com/isokolov2101-afk/Redundancy-in-a-cloud/blob/main/screenshots/Nginx%20Welcome%20page.png)
